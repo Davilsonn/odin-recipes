@@ -1,0 +1,25 @@
+.ingredients{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+#dough{
+    background-color: rgb(244, 215, 161);
+}
+
+#covering {
+    background-color: rgb(41, 34, 27);
+    color: white;
+}
+
+* {
+    text-align: center;
+}
+
+.head {
+    font-weight: bold;
+}
+
+.left {
+    text-align: left;
+}
