@@ -18,7 +18,7 @@
     background-color: rgb(244, 215, 161);
 }
 
-#covering {
+.covering {
     background-color: rgb(41, 34, 27);
     color: white;
 }
@@ -38,9 +38,19 @@
 }
 
 .stew {
-    background-color: rgb(119, 177, 102);
+    background-color: rgb(173, 205, 163);
 }
 
 .rizzoto {
     background-color: rgb(240, 197, 133);
+}
+
+.smallimage {
+    height: 200px;
+    width: auto;
+    text-align: center;
+}
+
+.dark-background {
+    color: white;
 }
